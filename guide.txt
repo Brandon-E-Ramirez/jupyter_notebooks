@@ -1,0 +1,12 @@
+1. use these commands to run anaconda navigator:
+
+conda activate -> anaconda-navigator : run graphical tool
+
+2. select 5th option (notebook) to run notebook server on browser
+
+other commands:
+jupyter notebook : run in repository with file
+
+
+
+

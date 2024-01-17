@@ -1,0 +1,3 @@
+learning resources:
+https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/
+https://www.gormanalysis.com/blog/python-numpy-for-your-grandma/
